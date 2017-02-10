@@ -14,7 +14,7 @@
         <ul>
             <li>Works best on Visual Studio 2013 or higher</li>
             <li>F5 to build and run</li>
-            <li>Open <a href="/api/Audit">/api/Audit</a> to execute GET method and see echo "0" JSON, test connectivity</li>
+            <li>Open <a href="/api/Audit">/api/Audit</a> to execute GET method and see echo JSON parameter example, test connectivity</li>
 			<li>Open <a href="/api/Audit">/api/Audit</a> to execute POST method with params and see JSON of audit events</li>
         </ul>
         <hr />
