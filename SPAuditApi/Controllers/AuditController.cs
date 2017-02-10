@@ -21,9 +21,10 @@ namespace SPAuditApi.Controllers
     public class AuditController : ApiController
     {
         // GET api/values
-        public string Get()
+        public auditParam Get()
         {
-            return "OK";
+            auditParam param = new auditParam();
+            return param;
         }
 
         // GET api/values/5
